@@ -1,0 +1,12 @@
+﻿  C:\Users\balin\Documents\Lightning-Engine-Public\packages\DirectXShaderCompiler\bin\x64\dxcompiler.dll
+  1 File(s) copied
+  C:\Users\balin\Documents\Lightning-Engine-Public\packages\DirectXShaderCompiler\bin\x64\dxil.dll
+  1 File(s) copied
+  Lights.cpp
+  main.cpp
+  RenderItem.cpp
+  Scripts.cpp
+  ShaderCompilation.cpp
+  TestRendere.cpp
+  Generating Code...
+  EngineTest.vcxproj -> C:\Users\balin\Documents\Lightning-Engine-Public\x64\Debug\EngineTest.exe

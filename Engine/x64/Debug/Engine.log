@@ -1,0 +1,27 @@
+﻿  Entity.cpp
+  Geometry.cpp
+  Script.cpp
+  Transform.cpp
+  ContentLoaderWin32.cpp
+  ContentToEngine.cpp
+  EngineWin32.cpp
+  Win32Main.cpp
+  Direct3D12Camera.cpp
+  Direct3D12Content.cpp
+  Direct3D12Core.cpp
+  Direct3D12GPass.cpp
+  Direct3D12Helpers.cpp
+  Direct3D12Interface.cpp
+  Direct3D12Light.cpp
+  Direct3D12LightCulling.cpp
+  Direct3D12PostProcess.cpp
+  Direct3D12Resources.cpp
+  Direct3D12Shaders.cpp
+  Direct3D12Surface.cpp
+  Direct3D12Upload.cpp
+  Renderer.cpp
+  Input.cpp
+  InputWin32.cpp
+  PlatformWin32.cpp
+  Window.cpp
+  Engine.vcxproj -> C:\Users\balin\Documents\Lightning-Engine-Public\x64\Debug\Engine.lib

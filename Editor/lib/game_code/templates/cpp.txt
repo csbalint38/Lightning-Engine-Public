@@ -1,0 +1,15 @@
+#include "{{0}}.h"
+
+namespace {{1}} {
+  REGISTER_SCRIPT({{0}});
+
+  // This method is called once when the game starts running
+  void {{0}}::begin_play() {
+
+  }
+
+  // This method is called every frame;
+  void {{0}}::update(float dt) {
+
+  }
+} // namespace {{1}}

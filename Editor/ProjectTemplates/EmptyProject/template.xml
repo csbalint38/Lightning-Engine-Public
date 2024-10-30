@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<ProjectTemplate>
+	<ProjectType>EmptyProject</ProjectType>
+	<ProjectFile>project.lightning</ProjectFile>
+	<Folders>
+		<Folder>.Lightning</Folder>
+		<Folder>Asssets</Folder>
+		<Folder>Code</Folder>
+	</Folders>
+</ProjectTemplate>

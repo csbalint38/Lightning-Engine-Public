@@ -1,0 +1,15 @@
+#pragma once
+
+namespace {{1}} {
+
+  class {{0}} : public lightning::script::EntityScript {
+    public:
+      constexpr explicit {{0}}(lightning::game_entity::Entity entity) : lightning::script::EntityScript{entity} {}
+
+      void begin_play() override;
+      void update(float dt) override;
+
+    private:
+
+  };
+} // namespace {{1}}

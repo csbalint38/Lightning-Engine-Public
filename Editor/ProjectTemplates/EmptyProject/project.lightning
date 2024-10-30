@@ -1,0 +1,12 @@
+<?xml version="1.0" ?>
+<Project>
+	<Name>{{0}}</Name>
+	<Path>{{1}}</Path>
+	<Scenes>
+		<Scene>
+			<Name>Default Scene</Name>
+			<IsActive>true</IsActive>
+			<Entities/>
+		</Scene>
+	</Scenes>
+</Project>
