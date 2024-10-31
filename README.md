@@ -6,11 +6,17 @@ Használatához a *packages/FBX SDK* mappába kell másolni egy érvényes FBX S
 Flutter Editor. Lib mappában van a lényeg, a többi generált.
 ### Editor/lib
 **components** - ebben vannak a komponensek, amiket az engine-ben is létre lehet hozni.
+
 **dll_wrappers** - EngineDLL és VisualStudioDLL-eket hívó Dart függvények
+
 **editors/world_editor** - Ebben vannak a UI Widgetek és a fő ablak controllere
+
 **game_code** - kód template-ek és a kód generáló widget és controllere
+
 **game_project** - főmenü UI Widgetek és főmenü kontrollerek illetve a modellek
+
 **themes** - kiszervezett UI téma hogy később lehessen dark mode
+
 
 ## Engine
 StaticLibrary. DirectX12 renderer van benne és egyébként minden, amit az engine csinál.
